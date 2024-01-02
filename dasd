@@ -1,0 +1,1 @@
+Cancelled in-flight API_VERSIONS request with correlation id 19 due to node -1 being disconnected (elapsed time since creation: 4ms, elapsed time since send: 4ms, request timeout: 30000ms)
